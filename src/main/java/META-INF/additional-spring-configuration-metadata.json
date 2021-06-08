@@ -1,27 +1,62 @@
 {"properties": [
   {
-    "name": "spring.datasource.jdbc-url",
+    "name": "app1.datasource.jdbc-url",
     "type": "java.lang.String",
-    "description": "A description for 'spring.datasource.jdbc-url'"
+    "description": "A description for 'app1.datasource.jdbc-url'"
   },
   {
-    "name": "db2.datasource.username",
+    "name": "app1.datasource.username",
     "type": "java.lang.String",
-    "description": "A description for 'db2.datasource.username'"
+    "description": "A description for 'app1.datasource.username'"
   },
   {
-    "name": "db2.datasource.jdbc-url",
+    "name": "app1.datasource.password",
     "type": "java.lang.String",
-    "description": "A description for 'db2.datasource.jdbc-url'"
+    "description": "A description for 'app1.datasource.password'"
   },
   {
-    "name": "db2.datasource.password",
+    "name": "app1.datasource.driverClassName",
     "type": "java.lang.String",
-    "description": "A description for 'db2.datasource.password'"
+    "description": "A description for 'app1.datasource.driverClassName'"
   },
   {
-    "name": "db2.datasource.driverClassName",
+    "name": "app2.datasource.jdbc-url",
     "type": "java.lang.String",
-    "description": "A description for 'db2.datasource.driverClassName'"
+    "description": "A description for 'app2.datasource.jdbc-url'"
+  },
+  {
+    "name": "app2.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'app2.datasource.username'"
+  },
+  {
+    "name": "app2.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app2.datasource.password'"
+  },
+  {
+    "name": "app2.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'app2.datasource.driverClassName'"
+  },
+  {
+    "name": "app1.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'app1.datasource.driverClassName'"
+  },
+  {
+    "name": "app1.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'app1.datasource.driverClassName'"
+  },
+  {
+    "name": "app1.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'app1.datasource.driverClassName'"
+  },
+  {
+    "name": "app1.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'app1.datasource.driverClassName'"
   }
 ]}
